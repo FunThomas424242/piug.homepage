@@ -1,5 +1,5 @@
-# piug.homepage
-Homepage der PiUG
+# PiUG Webseite
+(Platform independent User Group)
 
 # License
 
