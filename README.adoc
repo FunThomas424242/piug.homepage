@@ -1,6 +1,6 @@
-# PiUG Webseite
+# PIUG Webseite
 
-(Platform independent User Group)
+(Platform Independent User Group)
 
 # License
 
