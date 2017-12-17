@@ -1,0 +1,6 @@
+# piug.homepage
+Homepage der PiUG
+
+# link:https://www.gnu.org/licenses/fdl-1.3.de.html[License]
+
+include:LICENSE.adoc
