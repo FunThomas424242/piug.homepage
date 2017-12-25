@@ -1,3 +1,4 @@
+image:https://badge.waffle.io/FunThomas424242/piug.homepage.svg?columns=all["Waffle.io - Columns and their card count",link="https://waffle.io/FunThomas424242/piug.homepage"]
 # PIUG Webseite
 
 (Platform Independent User Group)
